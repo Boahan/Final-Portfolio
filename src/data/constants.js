@@ -257,6 +257,7 @@ export const education = [
   {
     id: 2,
     img: "./image/sbps.png",
+    school: "Social Baluni Public School, Dehradun",
     date: "Apr 2017 - Apr 2019",
     grade: "89.6%",
     desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
