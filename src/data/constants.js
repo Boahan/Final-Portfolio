@@ -161,11 +161,6 @@ export const skills = [
         image:
           "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
       },
-      {
-        name: "Canva",
-        image:
-          "https://upload.wikipedia.org/wikipedia/commons/thumb/4/47/Canva_logo_%282021%29.svg/1024px-Canva_logo_%282021%29.svg.png",
-      },
     ],
   },
 ];
