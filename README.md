@@ -1,5 +1,3 @@
-Certainly! Below is a sample **README.md** file for a React project that you can use for your GitHub portfolio:
-
 ```markdown
 # My Portfolio
 
@@ -54,11 +52,8 @@ This will start the development server, and you can view the portfolio in your b
 
 ## Contact
 
-Feel free to reach out to me if you have any questions or want to collaborate! You can find my contact details in the [Contact](#contact) section of this README.
+Feel free to reach out to me if you have any questions or want to collaborate! You can connect with me through shaswatgusain1@gmail.com .
 
 ---
-
 Happy coding! 🚀
 ```
-
-Remember to replace placeholders like `your-username` and customize the content to match your portfolio. Good luck with your GitHub portfolio! 🌟
