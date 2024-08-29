@@ -3,13 +3,13 @@ export const Bio = {
   roles: [
     "Software Developer",
     "Web Developer",
-    "Cloud Enthusiast",
+    "Tech Enthusiast"
   ],
   description:
-    "I am an aspiring cloud engineer, Web Developer, and Software Developer. Eager to apply my skills and knowledge to develop cutting-edge web applications that meet the needs of users and businesses. Always looking for new opportunities to gain new experiences and learn new things...!",
+    "I’m an aspiring software engineer & web developer with hands-on experience from a 2024 Microsoft internship & Knight at LeetCode. I’ve tackled complex challenges in several hackathons, demonstrating my problem-solving skills and ability to innovate.",
   github: "https://github.com/Boahan",
   resume:
-    "https://drive.google.com/file/d/1OuLZdhsYsFB9D04TXHJLlR62lXDYzaRT/view",
+    "https://drive.google.com/file/d/1wzJMfJySReM2AnWw4VC3IaraC-z4DbAA/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/shaswat-gusain-2924a324a/",
   twitter: "https://twitter.com/GusainShas29132",
   insta: "https://www.instagram.com/gusainshaswat/",
@@ -168,11 +168,11 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "./image/abhyaz.png",
+    img: "./image/ms.png",
     role: "Software Engineer Intern",
-    company: "Abhyaz",
-    date: "Oct 2023 - Nov 2023",
-    desc: "Developed static website using Jekyll , created content in markdown format and leveraged liquid templating for dynamic elements. Implemented continuous integration and continuous delivery (CI/CD) pipeline for efficient development and deployment. Automated website building and testing processes using GitHub Actions and leveraged GitHub Pages for free website hosting",
+    company: "Microsoft",
+    date: "Jun 2024 - Aug 2024",
+    desc: "I developed the SCC-React-Image-Input-Plugin for image queries in Microsoft 365 app chat environments, implementing functionalities for submitting image queries through device uploads, screenshots, and image pasting. Additionally, I engineered a mobile image upload feature that includes QR code scanning for seamless smartphone image uploads.",
     skills: [
       "Github",
       "Jekyll",
@@ -180,10 +180,25 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "./image/internshipcom.png",
+    doc: "./image/msct.png",
   },
   {
     id: 1,
+    img: "./image/abhyaz.png",
+    role: "Software Engineer Intern",
+    company: "Abhyaz",
+    date: "Oct 2023 - Nov 2023",
+    desc: "Developed static website using Jekyll , created content in markdown format and leveraged liquid templating for dynamic elements. Implemented continuous integration and continuous delivery (CI/CD) pipeline for efficient development and deployment. Automated website building and testing processes using GitHub Actions and leveraged GitHub Pages for free website hosting.",
+    skills: [
+      "Git",
+      "Augloop",
+      "1JS",
+      "TypeScript",
+    ],
+    doc: "./image/internshipcom.png",
+  },
+  {
+    id: 2,
     img: "https://www.namastedehradun.com/wp-content/uploads/2016/06/Graphic_Era_Hill_University_Logo-300x300.png",
     role: "Team Lead",
     company: "Hack-O-Holic 2.0",
@@ -200,8 +215,8 @@ export const experiences = [
     doc: "./image/3rd year.png",
   },
   {
-    id: 2,
-    img: "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Indian_Institute_of_Technology_Roorkee_logo.png/512px-Indian_Institute_of_Technology_Roorkee_logo.png",
+    id: 3,
+    img: "https://www.iitr.ac.in/lam2018/assets/img/IITR_new_logo_color.jpg",
     role: "Team Lead",
     company: "Cybersprint",
     date: "Mar 13 2023",
@@ -218,7 +233,7 @@ export const experiences = [
     doc: "./image/fampay.png",
   },
   {
-    id: 3,
+    id: 4,
     img: "https://www.namastedehradun.com/wp-content/uploads/2016/06/Graphic_Era_Hill_University_Logo-300x300.png",
     role: "Team Lead",
     company: "Hack-o-Holic",
@@ -522,6 +537,18 @@ export const projects = [
         github: "https://github.com/abhayjoshi201",
       },
     ],
+  },
+  {
+    id: 8,
+    title: "Disease Predictor",
+    description:
+      "Disease Detector a machine learning-based system for predicting multiple diseases. I managed the full pipeline from data processing to real-time prediction and created a user-friendly interface using Streamlit. The application, deployed on Streamlit Cloud, enables easy data input and visualization for users.",
+    image:
+      "./image/disease.png",
+    tags: ["Python", "Google colab", "Streamlit"],
+    category: "machine learning",
+    github: "https://github.com/Boahan/DiseaseDetector",
+    webapp: "https://mlwebapp-x.streamlit.app/",
   },
   {
     id: 8,
